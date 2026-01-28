@@ -1,6 +1,6 @@
 # js-quiz-project
 
-# Moutasem
+# Moutasem Alaani
 
 # project beschrijving
 dit is en simpel quiz eindopdracht in javascript 
